@@ -1,0 +1,21 @@
+.container{
+  background-color: aliceblue;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  margin: 15px ;
+  align-items: center;
+  height: 600px;
+}
+
+
+label{
+  font-size: 21px;
+}
+input{
+  width: 290px;
+}
+button{
+  margin-top: 15px;
+  width: 70px;
+}
